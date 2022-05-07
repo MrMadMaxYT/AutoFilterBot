@@ -14,11 +14,11 @@ You can create Your own by Clicking on Deploy Tutorial !!!😎 </b>
 </i>"""    
     
     HELP_TEXT = """
-<b>Create Your Auto Filter Using This Link \n:- https://youtu.be/qW9o9G7stCk ☺️☺️ </b>
+<b>Create Your Auto Filter Using This Link \n:- https://t.me/MalluHubTG ☺️☺️ </b>
 
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ Crude_X</b> : <code> Auto Filter Bot</code>
     
 <b>➥ Creator</b> : <b><i><a href="https://t.me/null_fallaci">Dalin Mathew</a></i></b>
 
@@ -26,5 +26,5 @@ You can create Your own by Clicking on Deploy Tutorial !!!😎 </b>
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Deploy Your Own</b> : <i><a href="https://youtu.be/qW9o9G7stCk">Click Me</a></i>
+<b>➥ Join Our Channel</b> : <i><a href="https://t.me/MalluHubTG">Click Me</a></i>
 """
