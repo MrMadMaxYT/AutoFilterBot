@@ -90,9 +90,9 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('Our Group', url='https://t.me/jointhisdiscussion'),
-        InlineKeyboardButton('Deploy Tutorial', url ='https://youtu.be/qW9o9G7stCk')
+        InlineKeyboardButton('Join Group', url ='https://t.me/Mallu_Cinema_TG')
     ],[
-        InlineKeyboardButton('Edit Tutorial', url='https://youtu.be/fisZ9z_QXNA')
+        InlineKeyboardButton('Join Chnl', url='https://t.me/MalluHubTG')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
